@@ -1,0 +1,68 @@
+body {
+  background-color: linen;
+}
+p,h1,h2 {
+  position: relative;
+  left: 36px;
+}
+h1 {
+	font-family: 'Harlow Solid', 'Arial Black', sans-serif;
+	font-size: 60px;
+	font-style: italic;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 36.4px;
+}
+h2 {
+  padding-top: 10px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+}
+p {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 20px;
+}
+li {
+  display: inline;
+  font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 20px;
+	background-color: light-green;
+	background-height: 20px;
+  text-align: center;
+  padding: 14px 16px;
+}
+li {
+  border-right: 1px solid #0033cc;
+  li:last-child
+  border-right: none;
+}
+#photo figure {
+  display: inline-block;
+}
+#photo figcaption {
+  font-family: Tahoma, Geneva, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 400;
+	line-height: 14px;
+}  
+#photo img {  
+  border: 2px solid black;
+  height:
+  width:
+  padding:
+  margin:
+}
